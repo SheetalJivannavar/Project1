@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 comment
+=======
+This is my second file
+adding another statement
+>>>>>>> master
